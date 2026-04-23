@@ -5,7 +5,7 @@
     "password": "SuperSecret123!"
   },
   "api": {
-    "stripe_live_key": "sk_live_51H1w234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "stripe_live_key": "sk_live_51H1w23  4567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "stripe_test_key": "sk_test_51H1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "github_token": "ghp_1234567890abcdefghijklmnopqrstuvwxyz",
     "slack_webhook": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX",
